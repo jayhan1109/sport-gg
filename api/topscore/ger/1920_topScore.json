@@ -1,0 +1,1895 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "season": "2019",
+    "league": "78"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 0,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 521,
+        "name": "R. Lewandowski",
+        "firstname": "Robert",
+        "lastname": "Lewandowski",
+        "age": 32,
+        "birth": {
+          "date": "1988-08-21",
+          "place": "Warszawa",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "184 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/521.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2762,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.670967",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 138,
+            "on": 69
+          },
+          "goals": {
+            "total": 34,
+            "conceded": null,
+            "assists": 4
+          },
+          "passes": {
+            "total": 561,
+            "key": 36,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 86,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 88,
+            "success": 57,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 43,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 5,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1166,
+        "name": "T. Werner",
+        "firstname": "Timo",
+        "lastname": "Werner",
+        "age": 24,
+        "birth": {
+          "date": "1996-03-06",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1166.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 33,
+            "minutes": 2808,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.575757",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 14,
+            "bench": 1
+          },
+          "shots": {
+            "total": 123,
+            "on": 64
+          },
+          "goals": {
+            "total": 28,
+            "conceded": null,
+            "assists": 8
+          },
+          "passes": {
+            "total": 706,
+            "key": 53,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 51,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 86,
+            "success": 58,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18,
+        "name": "J. Sancho",
+        "firstname": "Jadon",
+        "lastname": "Sancho",
+        "age": 20,
+        "birth": {
+          "date": "2000-03-25",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 25,
+            "minutes": 2290,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.593548",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 10,
+            "bench": 8
+          },
+          "shots": {
+            "total": 50,
+            "on": 28
+          },
+          "goals": {
+            "total": 17,
+            "conceded": null,
+            "assists": 15
+          },
+          "passes": {
+            "total": 1267,
+            "key": 68,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 0,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 49,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 141,
+            "success": 80,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25416,
+        "name": "W. Weghorst",
+        "firstname": "Wout",
+        "lastname": "Weghorst",
+        "age": 28,
+        "birth": {
+          "date": "1992-08-07",
+          "place": "Borne",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "197 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25416.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2740,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.035483",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": 83,
+            "on": 39
+          },
+          "goals": {
+            "total": 16,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 478,
+            "key": 34,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 4,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 101,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 42
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": 1,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25465,
+        "name": "R. Hennings",
+        "firstname": "Rouwen",
+        "lastname": "Hennings",
+        "age": 33,
+        "birth": {
+          "date": "1987-08-28",
+          "place": "Bad Oldesloe",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25465.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 158,
+            "name": "Fortuna Dusseldorf",
+            "logo": "https://media.api-sports.io/football/teams/158.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 27,
+            "minutes": 2459,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.980645",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 5,
+            "bench": 6
+          },
+          "shots": {
+            "total": 73,
+            "on": 27
+          },
+          "goals": {
+            "total": 15,
+            "conceded": null,
+            "assists": null
+          },
+          "passes": {
+            "total": 426,
+            "key": 22,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 57,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24810,
+        "name": "J. Córdoba",
+        "firstname": "Jhon Andrés",
+        "lastname": "Córdoba Copete",
+        "age": 27,
+        "birth": {
+          "date": "1993-05-11",
+          "place": "Istimira",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "188 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24810.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 23,
+            "minutes": 2004,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.067857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 13,
+            "bench": 7
+          },
+          "shots": {
+            "total": 59,
+            "on": 25
+          },
+          "goals": {
+            "total": 13,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 300,
+            "key": 26,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 132,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 64,
+            "committed": 54
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1100,
+        "name": "E. Håland",
+        "firstname": "Erling",
+        "lastname": "Håland",
+        "age": 20,
+        "birth": {
+          "date": "2000-07-21",
+          "place": "Leeds",
+          "country": "England"
+        },
+        "nationality": "Norway",
+        "height": "191 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1100.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 11,
+            "minutes": 1063,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.385714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 4,
+            "bench": 4
+          },
+          "shots": {
+            "total": 32,
+            "on": 20
+          },
+          "goals": {
+            "total": 13,
+            "conceded": null,
+            "assists": 1
+          },
+          "passes": {
+            "total": 150,
+            "key": 8,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 4,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 37,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26257,
+        "name": "F. Niederlechner",
+        "firstname": "Florian",
+        "lastname": "Niederlechner",
+        "age": 30,
+        "birth": {
+          "date": "1990-10-24",
+          "place": "Ebersberg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26257.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 31,
+            "minutes": 2731,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.031250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 13,
+            "bench": 2
+          },
+          "shots": {
+            "total": 75,
+            "on": 40
+          },
+          "goals": {
+            "total": 13,
+            "conceded": null,
+            "assists": 6
+          },
+          "passes": {
+            "total": 337,
+            "key": 29,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 5,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 83,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 60,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 62,
+            "committed": 46
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2866,
+        "name": "R. Quaison",
+        "firstname": "Robin",
+        "lastname": "Quaison",
+        "age": 27,
+        "birth": {
+          "date": "1993-10-09",
+          "place": "Stockholm",
+          "country": "Sweden"
+        },
+        "nationality": "Sweden",
+        "height": "183 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2866.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 31,
+            "minutes": 2613,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.929032",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 12,
+            "bench": 3
+          },
+          "shots": {
+            "total": 70,
+            "on": 28
+          },
+          "goals": {
+            "total": 13,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 374,
+            "key": 28,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 4,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 81,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 64,
+            "success": 42,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 510,
+        "name": "S. Gnabry",
+        "firstname": "Serge",
+        "lastname": "Gnabry",
+        "age": 25,
+        "birth": {
+          "date": "1995-07-14",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "175 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/510.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 26,
+            "minutes": 2203,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.413793",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 15,
+            "bench": 7
+          },
+          "shots": {
+            "total": 87,
+            "on": 39
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 9
+          },
+          "passes": {
+            "total": 801,
+            "key": 50,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 0,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 63,
+            "won": 32
+          },
+          "dribbles": {
+            "attempts": 92,
+            "success": 53,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 978,
+        "name": "K. Havertz",
+        "firstname": "Kai",
+        "lastname": "Havertz",
+        "age": 21,
+        "birth": {
+          "date": "1999-06-11",
+          "place": "Aachen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/978.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 29,
+            "minutes": 2462,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.996551",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 9,
+            "bench": 2
+          },
+          "shots": {
+            "total": 58,
+            "on": 25
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 5
+          },
+          "passes": {
+            "total": 1123,
+            "key": 59,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 94,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 114,
+            "success": 55,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2063,
+        "name": "André Silva",
+        "firstname": "André Miguel",
+        "lastname": "Valente Silva",
+        "age": 25,
+        "birth": {
+          "date": "1995-11-06",
+          "place": "Gondomar",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "184 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2063.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 16,
+            "minutes": 1576,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.037500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 9,
+            "bench": 13
+          },
+          "shots": {
+            "total": 55,
+            "on": 21
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 306,
+            "key": 33,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 112,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2862,
+        "name": "S. Andersson",
+        "firstname": "Sebastian",
+        "lastname": "Andersson",
+        "age": 29,
+        "birth": {
+          "date": "1991-07-15",
+          "place": "Ängelholm",
+          "country": "Sweden"
+        },
+        "nationality": "Sweden",
+        "height": "190 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2862.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 31,
+            "minutes": 2689,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.925000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 12,
+            "bench": 2
+          },
+          "shots": {
+            "total": 63,
+            "on": 36
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 1
+          },
+          "passes": {
+            "total": 439,
+            "key": 21,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 3,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 149,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 52,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 60
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 726,
+        "name": "A. Kramarić",
+        "firstname": "Andrej",
+        "lastname": "Kramarić",
+        "age": 29,
+        "birth": {
+          "date": "1991-06-19",
+          "place": "Zagreb",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "177 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/726.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 14,
+            "minutes": 1419,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 2,
+            "bench": 6
+          },
+          "shots": {
+            "total": 43,
+            "on": 25
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 407,
+            "key": 28,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 22,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25,
+        "name": "M. Reus",
+        "firstname": "Marco",
+        "lastname": "Reus",
+        "age": 31,
+        "birth": {
+          "date": "1989-05-31",
+          "place": "Dortmund",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 18,
+            "minutes": 1502,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.289473",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 8,
+            "bench": 1
+          },
+          "shots": {
+            "total": 47,
+            "on": 24
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 5
+          },
+          "passes": {
+            "total": 527,
+            "key": 22,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 2,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 44,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26258,
+        "name": "N. Petersen",
+        "firstname": "Nils",
+        "lastname": "Petersen",
+        "age": 32,
+        "birth": {
+          "date": "1988-12-06",
+          "place": "Wernigerode",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26258.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 24,
+            "minutes": 2428,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.963636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 3,
+            "bench": 10
+          },
+          "shots": {
+            "total": 54,
+            "on": 20
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 315,
+            "key": 33,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 5,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 50,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25646,
+        "name": "A. Pléa",
+        "firstname": "Alassane",
+        "lastname": "Pléa",
+        "age": 27,
+        "birth": {
+          "date": "1993-03-10",
+          "place": "Lille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 25,
+            "minutes": 2150,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.332000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 7,
+            "bench": 3
+          },
+          "shots": {
+            "total": 73,
+            "on": 34
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 9
+          },
+          "passes": {
+            "total": 462,
+            "key": 34,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 39,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 71,
+            "success": 42,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 34,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 2,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21509,
+        "name": "M. Thuram",
+        "firstname": "Marcus",
+        "lastname": "Thuram",
+        "age": 23,
+        "birth": {
+          "date": "1997-08-06",
+          "place": "Parme",
+          "country": "Italy"
+        },
+        "nationality": "France",
+        "height": "189 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21509.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 28,
+            "minutes": 2217,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.179310",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 18,
+            "bench": 3
+          },
+          "shots": {
+            "total": 52,
+            "on": 36
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 8
+          },
+          "passes": {
+            "total": 415,
+            "key": 30,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 65,
+            "won": 33
+          },
+          "dribbles": {
+            "attempts": 100,
+            "success": 59,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 58,
+            "committed": 48
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 989,
+        "name": "K. Volland",
+        "firstname": "Kevin",
+        "lastname": "Volland",
+        "age": 28,
+        "birth": {
+          "date": "1992-07-30",
+          "place": "Marktoberdorf",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "178 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/989.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 24,
+            "minutes": 2051,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.137037",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 7,
+            "bench": 4
+          },
+          "shots": {
+            "total": 78,
+            "on": 32
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 7
+          },
+          "passes": {
+            "total": 386,
+            "key": 34,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 23,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 794,
+        "name": "P. Schick",
+        "firstname": "Patrik",
+        "lastname": "Schick",
+        "age": 24,
+        "birth": {
+          "date": "1996-01-24",
+          "place": "Praha",
+          "country": "Czech Republic"
+        },
+        "nationality": "Czech Republic",
+        "height": "186 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/794.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 15,
+            "minutes": 1302,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.961904",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 11,
+            "bench": 9
+          },
+          "shots": {
+            "total": 52,
+            "on": 20
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 193,
+            "key": 19,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 51,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

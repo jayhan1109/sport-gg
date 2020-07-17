@@ -1,0 +1,1895 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "season": "2019",
+    "league": "140"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 0,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 154,
+        "name": "L. Messi",
+        "firstname": "Lionel Andrés",
+        "lastname": "Messi Cuccittini",
+        "age": 33,
+        "birth": {
+          "date": "1987-06-24",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/154.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 30,
+            "minutes": 2700,
+            "number": null,
+            "position": "Attacker",
+            "rating": "8.383333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 140,
+            "on": 65
+          },
+          "goals": {
+            "total": 22,
+            "conceded": null,
+            "assists": 20
+          },
+          "passes": {
+            "total": 1492,
+            "key": 78,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 0,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 156,
+            "won": 89
+          },
+          "dribbles": {
+            "attempts": 235,
+            "success": 161,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 63,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 759,
+        "name": "K. Benzema",
+        "firstname": "Karim",
+        "lastname": "Benzema",
+        "age": 33,
+        "birth": {
+          "date": "1987-12-19",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/759.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 541,
+            "name": "Real Madrid",
+            "logo": "https://media.api-sports.io/football/teams/541.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 32,
+            "minutes": 2832,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.456250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 13,
+            "bench": 2
+          },
+          "shots": {
+            "total": 110,
+            "on": 51
+          },
+          "goals": {
+            "total": 17,
+            "conceded": null,
+            "assists": 7
+          },
+          "passes": {
+            "total": 937,
+            "key": 53,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 50,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 59,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1707,
+        "name": "Gerard Moreno",
+        "firstname": "Gerard",
+        "lastname": "Moreno Balaguero",
+        "age": 28,
+        "birth": {
+          "date": "1992-04-07",
+          "place": "Santa Perpètua de Mogoda",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1707.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 31,
+            "minutes": 2574,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.187500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 13,
+            "bench": 2
+          },
+          "shots": {
+            "total": 77,
+            "on": 30
+          },
+          "goals": {
+            "total": 16,
+            "conceded": null,
+            "assists": 5
+          },
+          "passes": {
+            "total": 647,
+            "key": 45,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 77,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 82,
+            "success": 54,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 43,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 157,
+        "name": "L. Suárez",
+        "firstname": "Luis Alberto",
+        "lastname": "Suárez Díaz",
+        "age": 33,
+        "birth": {
+          "date": "1987-01-24",
+          "place": "Salto",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "182 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/157.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 21,
+            "minutes": 1879,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.261538",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 8,
+            "bench": 5
+          },
+          "shots": {
+            "total": 72,
+            "on": 39
+          },
+          "goals": {
+            "total": 15,
+            "conceded": null,
+            "assists": 8
+          },
+          "passes": {
+            "total": 469,
+            "key": 25,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 35,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47282,
+        "name": "Raúl García",
+        "firstname": "Raúl",
+        "lastname": "García Escudero",
+        "age": 34,
+        "birth": {
+          "date": "1986-07-11",
+          "place": "Pamplona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47282.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 531,
+            "name": "Athletic Club",
+            "logo": "https://media.api-sports.io/football/teams/531.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 31,
+            "minutes": 2706,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.043750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 10,
+            "bench": 2
+          },
+          "shots": {
+            "total": 75,
+            "on": 32
+          },
+          "goals": {
+            "total": 15,
+            "conceded": null,
+            "assists": 1
+          },
+          "passes": {
+            "total": 484,
+            "key": 21,
+            "accuracy": 54
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 6,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 152,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 56,
+            "committed": 74
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 7,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1911,
+        "name": "L. Ocampos",
+        "firstname": "Lucas Ariel",
+        "lastname": "Ocampos",
+        "age": 26,
+        "birth": {
+          "date": "1994-07-11",
+          "place": "Buenos Aires",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "187 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1911.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 536,
+            "name": "Sevilla",
+            "logo": "https://media.api-sports.io/football/teams/536.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 30,
+            "minutes": 2641,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.020000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 11,
+            "bench": 1
+          },
+          "shots": {
+            "total": 77,
+            "on": 33
+          },
+          "goals": {
+            "total": 14,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 617,
+            "key": 23,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 50,
+            "blocks": 2,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 113,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 149,
+            "success": 66,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 51,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47445,
+        "name": "Iago Aspas",
+        "firstname": "Iago",
+        "lastname": "Aspas Juncal",
+        "age": 33,
+        "birth": {
+          "date": "1987-08-01",
+          "place": "Moaña",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "176 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47445.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3088,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.091428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 76,
+            "on": 38
+          },
+          "goals": {
+            "total": 13,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 919,
+            "key": 52,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 1,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 82,
+            "won": 32
+          },
+          "dribbles": {
+            "attempts": 87,
+            "success": 48,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 64,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 5,
+            "missed": 2,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 59,
+        "name": "Morata",
+        "firstname": "Álvaro Borja",
+        "lastname": "Morata Martín",
+        "age": 28,
+        "birth": {
+          "date": "1992-10-23",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "190 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/59.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 23,
+            "minutes": 1968,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.930000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 12,
+            "bench": 8
+          },
+          "shots": {
+            "total": 65,
+            "on": 30
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 1
+          },
+          "passes": {
+            "total": 290,
+            "key": 22,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 72,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 55,
+            "committed": 51
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46746,
+        "name": "A. Budimir",
+        "firstname": "Ante",
+        "lastname": "Budimir",
+        "age": 29,
+        "birth": {
+          "date": "1991-07-22",
+          "place": "Zenica",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Croatia",
+        "height": "190 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46746.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 798,
+            "name": "Mallorca",
+            "logo": "https://media.api-sports.io/football/teams/798.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 31,
+            "minutes": 2600,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.918750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 18,
+            "bench": 2
+          },
+          "shots": {
+            "total": 51,
+            "on": 20
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 329,
+            "key": 11,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 4,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 119,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 44,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 57,
+            "committed": 65
+          },
+          "cards": {
+            "yellow": 11,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2671,
+        "name": "Mata",
+        "firstname": "Jaime",
+        "lastname": "Mata Arnaiz",
+        "age": 32,
+        "birth": {
+          "date": "1988-10-24",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2671.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 546,
+            "name": "Getafe",
+            "logo": "https://media.api-sports.io/football/teams/546.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 30,
+            "minutes": 2529,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.986666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 12,
+            "bench": 3
+          },
+          "shots": {
+            "total": 49,
+            "on": 23
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 398,
+            "key": 27,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 98,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 49,
+            "committed": 81
+          },
+          "cards": {
+            "yellow": 13,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47471,
+        "name": "Roger Martí",
+        "firstname": "Roger",
+        "lastname": "Martí Salvador",
+        "age": 29,
+        "birth": {
+          "date": "1991-01-03",
+          "place": "Torrent",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47471.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 24,
+            "minutes": 2116,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.759375",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 13,
+            "bench": 11
+          },
+          "shots": {
+            "total": 50,
+            "on": 21
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": null
+          },
+          "passes": {
+            "total": 243,
+            "key": 21,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 43,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 50
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18833,
+        "name": "Lucas Pérez",
+        "firstname": "Lucas",
+        "lastname": "Pérez Martínez",
+        "age": 32,
+        "birth": {
+          "date": "1988-09-10",
+          "place": "A Coruña",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18833.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 542,
+            "name": "Alaves",
+            "logo": "https://media.api-sports.io/football/teams/542.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 27,
+            "minutes": 2368,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.003225",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 9,
+            "bench": 5
+          },
+          "shots": {
+            "total": 44,
+            "on": 19
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 5
+          },
+          "passes": {
+            "total": 368,
+            "key": 59,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 40,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 47,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2615,
+        "name": "M. Gómez",
+        "firstname": "Maximiliano",
+        "lastname": "Gómez González",
+        "age": 24,
+        "birth": {
+          "date": "1996-08-14",
+          "place": "Paysandú",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "186 cm",
+        "weight": "91 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2615.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 532,
+            "name": "Valencia",
+            "logo": "https://media.api-sports.io/football/teams/532.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 24,
+            "minutes": 2066,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.948387",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 13,
+            "bench": 8
+          },
+          "shots": {
+            "total": 40,
+            "on": 19
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 232,
+            "key": 16,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 70,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 56,
+            "committed": 46
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47319,
+        "name": "Willian José",
+        "firstname": "Willian José",
+        "lastname": "da Silva",
+        "age": 29,
+        "birth": {
+          "date": "1991-11-23",
+          "place": "Porto Calvo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "189 cm",
+        "weight": "93 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47319.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 23,
+            "minutes": 1856,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.768750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 19,
+            "bench": 11
+          },
+          "shots": {
+            "total": 51,
+            "on": 15
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 1
+          },
+          "passes": {
+            "total": 342,
+            "key": 17,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 4,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 43,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47266,
+        "name": "Ángel",
+        "firstname": "Ángel Luis",
+        "lastname": "Rodríguez Díaz",
+        "age": 33,
+        "birth": {
+          "date": "1987-04-26",
+          "place": "Santa Cruz de Tenerife",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "172 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47266.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 546,
+            "name": "Getafe",
+            "logo": "https://media.api-sports.io/football/teams/546.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 8,
+            "minutes": 1268,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.834482",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 22,
+            "out": 3,
+            "bench": 26
+          },
+          "shots": {
+            "total": 43,
+            "on": 17
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 157,
+            "key": 16,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 30,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 49
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18907,
+        "name": "Joselu",
+        "firstname": "José Luis",
+        "lastname": "Sanmartín Mato",
+        "age": 30,
+        "birth": {
+          "date": "1990-03-27",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Spain",
+        "height": "192 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18907.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 542,
+            "name": "Alaves",
+            "logo": "https://media.api-sports.io/football/teams/542.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 28,
+            "minutes": 2516,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.084375",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 10,
+            "bench": 6
+          },
+          "shots": {
+            "total": 75,
+            "on": 27
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 428,
+            "key": 13,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 4,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 130,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 50,
+            "committed": 45
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47323,
+        "name": "Mikel Oyarzabal",
+        "firstname": "Mikel",
+        "lastname": "Oyarzabal Ugarte",
+        "age": 23,
+        "birth": {
+          "date": "1997-04-21",
+          "place": "Eibar",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47323.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 33,
+            "minutes": 2812,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.121875",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 12,
+            "bench": 2
+          },
+          "shots": {
+            "total": 57,
+            "on": 21
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 10
+          },
+          "passes": {
+            "total": 717,
+            "key": 47,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 2,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 78,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 92,
+            "success": 60,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 48,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 738,
+        "name": "Sergio Ramos",
+        "firstname": "Sergio",
+        "lastname": "Ramos García",
+        "age": 34,
+        "birth": {
+          "date": "1986-03-30",
+          "place": "Camas",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/738.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 541,
+            "name": "Real Madrid",
+            "logo": "https://media.api-sports.io/football/teams/541.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2791,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.296774",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 36,
+            "on": 16
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": null
+          },
+          "passes": {
+            "total": 1758,
+            "key": 4,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 6,
+            "interceptions": 48
+          },
+          "duels": {
+            "total": 50,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 49
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 6,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1695,
+        "name": "Santi Cazorla",
+        "firstname": "Santiago",
+        "lastname": "Cazorla González",
+        "age": 36,
+        "birth": {
+          "date": "1984-12-13",
+          "place": "Lugo de Llanera",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "168 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1695.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 27,
+            "minutes": 2261,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.383870",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 14,
+            "bench": 5
+          },
+          "shots": {
+            "total": 47,
+            "on": 23
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 7
+          },
+          "passes": {
+            "total": 1196,
+            "key": 65,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 1,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 36,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 42,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 8,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56,
+        "name": "A. Griezmann",
+        "firstname": "Antoine",
+        "lastname": "Griezmann",
+        "age": 29,
+        "birth": {
+          "date": "1991-03-21",
+          "place": "Mâcon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "176 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "Primera Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 31,
+            "minutes": 2561,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.018181",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 16,
+            "bench": 5
+          },
+          "shots": {
+            "total": 54,
+            "on": 23
+          },
+          "goals": {
+            "total": 9,
+            "conceded": null,
+            "assists": 4
+          },
+          "passes": {
+            "total": 902,
+            "key": 33,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 3,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 37,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

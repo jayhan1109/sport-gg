@@ -1,0 +1,1895 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "season": "2018",
+    "league": "78"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 0,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 521,
+        "name": "R. Lewandowski",
+        "firstname": "Robert",
+        "lastname": "Lewandowski",
+        "age": 32,
+        "birth": {
+          "date": "1988-08-21",
+          "place": "Warszawa",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "184 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/521.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2959,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.453125",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 139,
+            "on": 48
+          },
+          "goals": {
+            "total": 22,
+            "conceded": null,
+            "assists": 7
+          },
+          "passes": {
+            "total": 548,
+            "key": 47,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 338,
+            "won": 162
+          },
+          "dribbles": {
+            "attempts": 73,
+            "success": 48,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 47,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 3,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21,
+        "name": "Paco Alcácer",
+        "firstname": "Francisco",
+        "lastname": "Alcácer García",
+        "age": 27,
+        "birth": {
+          "date": "1993-08-30",
+          "place": "Torrent",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 11,
+            "minutes": 1204,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.115384",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 8,
+            "bench": 17
+          },
+          "shots": {
+            "total": 52,
+            "on": 28
+          },
+          "goals": {
+            "total": 18,
+            "conceded": null,
+            "assists": null
+          },
+          "passes": {
+            "total": 212,
+            "key": 15,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 86,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1828,
+        "name": "L. Jović",
+        "firstname": "Luka",
+        "lastname": "Jović",
+        "age": 23,
+        "birth": {
+          "date": "1997-12-23",
+          "place": "Bijeljina",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Serbia",
+        "height": "182 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1828.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 25,
+            "minutes": 2247,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.148387",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 11,
+            "bench": 9
+          },
+          "shots": {
+            "total": 91,
+            "on": 41
+          },
+          "goals": {
+            "total": 17,
+            "conceded": null,
+            "assists": 5
+          },
+          "passes": {
+            "total": 401,
+            "key": 27,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 306,
+            "won": 134
+          },
+          "dribbles": {
+            "attempts": 42,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25,
+        "name": "M. Reus",
+        "firstname": "Marco",
+        "lastname": "Reus",
+        "age": 31,
+        "birth": {
+          "date": "1989-05-31",
+          "place": "Dortmund",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2322,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.233333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 69,
+            "on": 34
+          },
+          "goals": {
+            "total": 17,
+            "conceded": null,
+            "assists": 8
+          },
+          "passes": {
+            "total": 828,
+            "key": 38,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 1,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 263,
+            "won": 109
+          },
+          "dribbles": {
+            "attempts": 59,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": 1,
+            "commited": 1,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 978,
+        "name": "K. Havertz",
+        "firstname": "Kai",
+        "lastname": "Havertz",
+        "age": 21,
+        "birth": {
+          "date": "1999-06-11",
+          "place": "Aachen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/978.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 33,
+            "minutes": 2899,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 1
+          },
+          "shots": {
+            "total": 86,
+            "on": 42
+          },
+          "goals": {
+            "total": 17,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 1528,
+            "key": 36,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 4,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 389,
+            "won": 179
+          },
+          "dribbles": {
+            "attempts": 86,
+            "success": 47,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 51,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25416,
+        "name": "W. Weghorst",
+        "firstname": "Wout",
+        "lastname": "Weghorst",
+        "age": 28,
+        "birth": {
+          "date": "1992-08-07",
+          "place": "Borne",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "197 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25416.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 33,
+            "minutes": 2931,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.261764",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 7,
+            "bench": 1
+          },
+          "shots": {
+            "total": 73,
+            "on": 35
+          },
+          "goals": {
+            "total": 17,
+            "conceded": null,
+            "assists": 7
+          },
+          "passes": {
+            "total": 559,
+            "key": 37,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 416,
+            "won": 198
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 38,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 726,
+        "name": "A. Kramarić",
+        "firstname": "Andrej",
+        "lastname": "Kramarić",
+        "age": 29,
+        "birth": {
+          "date": "1991-06-19",
+          "place": "Zagreb",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "177 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/726.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 28,
+            "minutes": 2404,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 10,
+            "bench": 3
+          },
+          "shots": {
+            "total": 110,
+            "on": 44
+          },
+          "goals": {
+            "total": 17,
+            "conceded": null,
+            "assists": 4
+          },
+          "passes": {
+            "total": 774,
+            "key": 52,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 185,
+            "won": 64
+          },
+          "dribbles": {
+            "attempts": 52,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1166,
+        "name": "T. Werner",
+        "firstname": "Timo",
+        "lastname": "Werner",
+        "age": 24,
+        "birth": {
+          "date": "1996-03-06",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1166.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 29,
+            "minutes": 2524,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.216666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 16,
+            "bench": 1
+          },
+          "shots": {
+            "total": 107,
+            "on": 39
+          },
+          "goals": {
+            "total": 16,
+            "conceded": null,
+            "assists": 7
+          },
+          "passes": {
+            "total": 567,
+            "key": 36,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 249,
+            "won": 93
+          },
+          "dribbles": {
+            "attempts": 81,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 724,
+        "name": "I. Belfodil",
+        "firstname": "Ishak",
+        "lastname": "Belfodil",
+        "age": 28,
+        "birth": {
+          "date": "1992-01-12",
+          "place": "Mostaganem",
+          "country": "Algeria"
+        },
+        "nationality": "Algeria",
+        "height": "192 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/724.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 20,
+            "minutes": 1863,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.342857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 7,
+            "bench": 13
+          },
+          "shots": {
+            "total": 88,
+            "on": 36
+          },
+          "goals": {
+            "total": 16,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 314,
+            "key": 30,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 250,
+            "won": 113
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 38,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1167,
+        "name": "Y. Poulsen",
+        "firstname": "Yussuf",
+        "lastname": "Yurary Poulsen",
+        "age": 26,
+        "birth": {
+          "date": "1994-06-15",
+          "place": "København",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "192 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1167.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 27,
+            "minutes": 2453,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.203225",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 6,
+            "bench": 4
+          },
+          "shots": {
+            "total": 65,
+            "on": 27
+          },
+          "goals": {
+            "total": 15,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 470,
+            "key": 33,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 549,
+            "won": 235
+          },
+          "dribbles": {
+            "attempts": 58,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 49,
+            "committed": 56
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1826,
+        "name": "S. Haller",
+        "firstname": "Sébastien",
+        "lastname": "Haller",
+        "age": 26,
+        "birth": {
+          "date": "1994-06-22",
+          "place": "Ris-Orangis",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "190 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1826.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 23,
+            "minutes": 2180,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.357142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 4,
+            "bench": 6
+          },
+          "shots": {
+            "total": 53,
+            "on": 26
+          },
+          "goals": {
+            "total": 15,
+            "conceded": null,
+            "assists": 9
+          },
+          "passes": {
+            "total": 493,
+            "key": 37,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 540,
+            "won": 284
+          },
+          "dribbles": {
+            "attempts": 47,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 42,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 989,
+        "name": "K. Volland",
+        "firstname": "Kevin",
+        "lastname": "Volland",
+        "age": 28,
+        "birth": {
+          "date": "1992-07-30",
+          "place": "Marktoberdorf",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "178 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/989.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 32,
+            "minutes": 2820,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.263636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 8,
+            "bench": 2
+          },
+          "shots": {
+            "total": 85,
+            "on": 45
+          },
+          "goals": {
+            "total": 14,
+            "conceded": null,
+            "assists": 9
+          },
+          "passes": {
+            "total": 635,
+            "key": 42,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 331,
+            "won": 145
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 49,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 3,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25927,
+        "name": "J. Mateta",
+        "firstname": "Jean-Philippe",
+        "lastname": "Mateta",
+        "age": 23,
+        "birth": {
+          "date": "1997-06-28",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "190 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25927.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 29,
+            "minutes": 2493,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.039393",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 14,
+            "bench": 5
+          },
+          "shots": {
+            "total": 96,
+            "on": 34
+          },
+          "goals": {
+            "total": 14,
+            "conceded": null,
+            "assists": 2
+          },
+          "passes": {
+            "total": 304,
+            "key": 30,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 406,
+            "won": 184
+          },
+          "dribbles": {
+            "attempts": 66,
+            "success": 34,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18,
+        "name": "J. Sancho",
+        "firstname": "Jadon",
+        "lastname": "Sancho",
+        "age": 20,
+        "birth": {
+          "date": "2000-03-25",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 26,
+            "minutes": 2462,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.255882",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 9,
+            "bench": 8
+          },
+          "shots": {
+            "total": 40,
+            "on": 22
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 14
+          },
+          "passes": {
+            "total": 1105,
+            "key": 71,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 345,
+            "won": 170
+          },
+          "dribbles": {
+            "attempts": 186,
+            "success": 113,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25646,
+        "name": "A. Pléa",
+        "firstname": "Alassane",
+        "lastname": "Pléa",
+        "age": 27,
+        "birth": {
+          "date": "1993-03-10",
+          "place": "Lille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 28,
+            "minutes": 2508,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.926470",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 11,
+            "bench": 6
+          },
+          "shots": {
+            "total": 83,
+            "on": 41
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 4
+          },
+          "passes": {
+            "total": 443,
+            "key": 33,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 310,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 35
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25349,
+        "name": "O. Duda",
+        "firstname": "Ondrej",
+        "lastname": "Duda",
+        "age": 26,
+        "birth": {
+          "date": "1994-12-05",
+          "place": "Snina",
+          "country": "Slovakia"
+        },
+        "nationality": "Slovakia",
+        "height": "181 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25349.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 159,
+            "name": "Hertha Berlin",
+            "logo": "https://media.api-sports.io/football/teams/159.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2575,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.018750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 14,
+            "bench": 3
+          },
+          "shots": {
+            "total": 54,
+            "on": 20
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 5
+          },
+          "passes": {
+            "total": 923,
+            "key": 41,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 4,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 392,
+            "won": 168
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 38,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 45,
+            "committed": 77
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25329,
+        "name": "M. Kruse",
+        "firstname": "Max",
+        "lastname": "Kruse",
+        "age": 32,
+        "birth": {
+          "date": "1988-03-19",
+          "place": "Reinbek",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25329.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2837,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.412903",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 86,
+            "on": 39
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 8
+          },
+          "passes": {
+            "total": 1226,
+            "key": 80,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 252,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 49,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 510,
+        "name": "S. Gnabry",
+        "firstname": "Serge",
+        "lastname": "Gnabry",
+        "age": 25,
+        "birth": {
+          "date": "1995-07-14",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "175 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/510.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 21,
+            "minutes": 1771,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.110000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 18,
+            "bench": 9
+          },
+          "shots": {
+            "total": 66,
+            "on": 32
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 5
+          },
+          "passes": {
+            "total": 661,
+            "key": 29,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 0,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 260,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 107,
+            "success": 50,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25467,
+        "name": "B. Raman",
+        "firstname": "Benito",
+        "lastname": "Raman",
+        "age": 26,
+        "birth": {
+          "date": "1994-11-07",
+          "place": "Gent",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "172 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25467.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 158,
+            "name": "Fortuna Dusseldorf",
+            "logo": "https://media.api-sports.io/football/teams/158.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 19,
+            "minutes": 1679,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.813793",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 9,
+            "bench": 12
+          },
+          "shots": {
+            "total": 55,
+            "on": 26
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 4
+          },
+          "passes": {
+            "total": 285,
+            "key": 21,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 2,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 252,
+            "won": 95
+          },
+          "dribbles": {
+            "attempts": 85,
+            "success": 37,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26258,
+        "name": "N. Petersen",
+        "firstname": "Nils",
+        "lastname": "Petersen",
+        "age": 32,
+        "birth": {
+          "date": "1988-12-06",
+          "place": "Wernigerode",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26258.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 20,
+            "minutes": 1927,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.029166",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 5
+          },
+          "shots": {
+            "total": 49,
+            "on": 23
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 3
+          },
+          "passes": {
+            "total": 348,
+            "key": 20,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 2,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 397,
+            "won": 144
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

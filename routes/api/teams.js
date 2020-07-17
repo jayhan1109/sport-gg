@@ -22,18 +22,17 @@ router.get("/:league/:season", (req, res) => {
 
       let element;
 
-      teams.forEach((team) => {
+      teams.forEach((el) => {
+        const { team, venue } = el;
         element = {};
-        element.id = team.team.id;
-        element.name = team.team.name;
-        element.logo = team.team.logo;
-        element.venue = team.venue.name;
+        element.id = team.id;
+        element.name = team.name;
+        element.logo = team.logo;
+        element.venue = venue.name;
         data.push(element);
       });
 
-      console.log(data);
-
-      res.json(teams);
+      res.json(data);
     }
   );
 });

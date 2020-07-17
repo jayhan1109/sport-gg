@@ -126,6 +126,7 @@ router.post(
 // @access  Private
 router.get("/", auth, async (req, res) => {
   try {
+    // Load current logged-in user
     const user = await User.findById(req.user.id).select("-password");
     res.json(user);
   } catch (e) {
@@ -136,9 +137,29 @@ router.get("/", auth, async (req, res) => {
 // @route   put     /auth
 // @desc    Edit username
 // @access  Private
-router.put("/", async (req, res) => {
-  res.send("Edit Username");
-});
+router.put(
+  "/",
+  [auth, [check("name", "Name is required").not().isEmpty()]],
+  async (req, res) => {
+    // Check express-validation
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
+    // Destructing
+    const { name } = req.body;
+
+    try {
+      const user = await User.findById(req.user.id);
+      user.name = name;
+      await user.save();
+      res.json(user);
+    } catch (e) {
+      res.status(500).send("Server Error");
+    }
+  }
+);
 
 // @route   put     /auth/bookmark
 // @desc    Update Bookmark

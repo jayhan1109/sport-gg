@@ -4,7 +4,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.get("/", (res, res) => {
-  res.setEncoding("Root");
+  res.send("Root");
 });
 
 // Serve static assets in production

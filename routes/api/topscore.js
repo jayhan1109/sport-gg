@@ -3,7 +3,7 @@ const router = express.Router();
 const fs = require("fs");
 const path = require("path");
 
-// @route   put     /api/topscore/:league/:season
+// @route   GET     /api/topscore/:league/:season
 // @desc    Get top scorer of season
 // @access  Public
 router.get("/:league/:season", (req, res) => {

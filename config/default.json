@@ -1,4 +1,5 @@
 {
   "sportAPI": "b6cdef52e88b6f900ab98f911ce85cc2",
-  "mongoURI": "mongodb+srv://jungho1109:wjdgh123123@sportgg.schnc.mongodb.net/football?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jungho1109:wjdgh123123@sportgg.schnc.mongodb.net/football?retryWrites=true&w=majority",
+  "jwtToken": "sportggisawesomewebsite"
 }

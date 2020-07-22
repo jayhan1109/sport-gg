@@ -1,7 +1,13 @@
 $primary: #5186bc;
-$primary-nav: rgba(81, 134, 188, 0.8);
+$primary-light: rgba(81, 134, 188, 0.5);
 $secondary: #99cad1;
 $lightgreen: #bddbd9;
 $lightgrey: #eee6db;
 $lightbrown: #e5dad4;
 $skincolor: #f6efe7;
+$grey: #636363;
+@mixin container {
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+}

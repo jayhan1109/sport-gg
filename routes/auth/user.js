@@ -121,7 +121,7 @@ router.post(
   }
 );
 
-// @route   POST     /auth
+// @route   GET     /auth
 // @desc    Load User
 // @access  Private
 router.get("/", auth, async (req, res) => {

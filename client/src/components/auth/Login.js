@@ -1,7 +1,10 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, Redirect } from "react-router-dom";
 import "../../styles/Auth.scss";
 import axios from "axios";
+import { useSetRecoilState, useRecoilState } from "recoil";
+import { alertState } from "../../recoil/alert";
+import { authState } from "../../recoil/auth";
 
 const Login = () => {
   const [formData, setFormData] = useState({
@@ -9,7 +12,12 @@ const Login = () => {
     password: "",
   });
 
-  console.log("hey");
+  const setAlert = useSetRecoilState(alertState);
+  const [auth, setAuth] = useRecoilState(authState);
+
+  if (auth) {
+    return <Redirect to="/" />;
+  }
 
   const { email, password } = formData;
 
@@ -29,9 +37,12 @@ const Login = () => {
         password,
       });
       localStorage.setItem("token", res.data.token);
-      console.log(res.data.token);
+      setAlert({ msg: "Login Success", type: "success" });
+      setAuth(true);
     } catch (err) {
-      console.log(err.response.data.errors[0].msg);
+      localStorage.removeItem("token");
+      setAlert({ msg: err.response.data.errors[0].msg, type: "danger" });
+      setAuth(false);
     }
   };
 

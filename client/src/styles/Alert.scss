@@ -1,0 +1,26 @@
+@import "./Global.scss";
+
+.alert {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.7rem 3rem;
+  border-radius: 10px;
+
+  &-success {
+    background: $secondary;
+    color: #fff;
+  }
+
+  &-danger {
+    background: $danger;
+    color: #fff;
+  }
+
+  &-msg {
+    font-size: 1.4rem;
+  }
+}

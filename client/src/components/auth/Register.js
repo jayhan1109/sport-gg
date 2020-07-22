@@ -1,7 +1,10 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, Redirect } from "react-router-dom";
 import "../../styles/Auth.scss";
 import axios from "axios";
+import { useSetRecoilState, useRecoilState } from "recoil";
+import { alertState } from "../../recoil/alert";
+import { authState } from "../../recoil/auth";
 
 const Register = () => {
   const [formData, setFormData] = useState({
@@ -10,6 +13,13 @@ const Register = () => {
     password: "",
     password2: "",
   });
+
+  const setAlert = useSetRecoilState(alertState);
+  const [auth, setAuth] = useRecoilState(authState);
+
+  if (auth) {
+    return <Redirect to="/" />;
+  }
 
   const { name, email, password, password2 } = formData;
 
@@ -20,7 +30,7 @@ const Register = () => {
   const onSubmit = async (e) => {
     e.preventDefault();
     if (password !== password2) {
-      console.log("Fail");
+      setAlert({ msg: "Password Not Same", type: "danger" });
     } else {
       register();
     }
@@ -34,9 +44,12 @@ const Register = () => {
         password,
       });
       localStorage.setItem("token", res.data.token);
-      console.log(res.data.token);
+      setAlert({ msg: "Register Success", type: "success" });
+      setAuth(true);
     } catch (err) {
-      console.log(err.response.data.errors[0].msg);
+      localStorage.removeItem("token");
+      setAlert({ msg: err.response.data.errors[0].msg, type: "danger" });
+      setAuth(false);
     }
   };
 

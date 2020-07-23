@@ -1,9 +1,9 @@
 import React, { Fragment } from "react";
 import { Link, Redirect } from "react-router-dom";
-import "../styles/Navbar.scss";
-import { useRecoilValue, useRecoilState } from "recoil";
-import { authState, userState } from "../recoil/auth";
-import { alertState } from "../recoil/alert";
+import "../../styles/Navbar.scss";
+import { useRecoilState } from "recoil";
+import { authState, userState } from "../../recoil/auth";
+import { alertState } from "../../recoil/alert";
 
 const Navbar = () => {
   const [auth, setAuth] = useRecoilState(authState);
@@ -29,9 +29,12 @@ const Navbar = () => {
             </Link>
           </div>
           <div className="navbar-navs">
-            <Link className="navbar-navs-nav" onClick={logout}>
-              Logout
+            <Link className="navbar-navs-nav" to={`/dashboard/${user._id}`}>
+              {user.name}
             </Link>
+            <a className="navbar-navs-nav" onClick={logout}>
+              Logout
+            </a>
           </div>
         </div>
       </Fragment>

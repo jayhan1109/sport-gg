@@ -3,6 +3,7 @@ const userRouter = require("./routes/auth/user");
 const standingRouter = require("./routes/api/standing");
 const teamsRouter = require("./routes/api/teams");
 const topscoreRouter = require("./routes/api/topscore");
+const newsRouter = require("./routes/api/news");
 const connectDB = require("./config/db");
 
 const app = express();
@@ -17,6 +18,7 @@ app.use("/auth", userRouter);
 app.use("/api/standing", standingRouter);
 app.use("/api/teams", teamsRouter);
 app.use("/api/topscore", topscoreRouter);
+app.use("/api/news", newsRouter);
 
 // Serve static assets in production
 if (process.env.NODE_ENV === "production") {

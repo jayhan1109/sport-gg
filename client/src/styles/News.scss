@@ -1,0 +1,64 @@
+@import "./Global.scss";
+
+.news {
+  width: 80%;
+  max-width: 900;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  -webkit-box-shadow: 10px 10px 22px -7px rgba(81, 134, 188, 1);
+  -moz-box-shadow: 10px 10px 22px -7px rgba(81, 134, 188, 1);
+  box-shadow: 10px 10px 22px -7px rgba(81, 134, 188, 1);
+  padding: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  color: #000;
+
+  &-img {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 190px;
+
+    img {
+      width: 100%;
+    }
+  }
+  &-content {
+    flex: 4;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 1.5rem;
+
+    &-title {
+      margin-bottom: 1rem;
+      font-size: 1.7rem;
+    }
+
+    &-body {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      line-height: 1.3rem;
+      max-height: 2.6rem;
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .news {
+    &-content {
+      &-title {
+        font-size: 1.3rem;
+      }
+      &-body {
+        display: none;
+      }
+    }
+  }
+}

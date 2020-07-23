@@ -39,6 +39,7 @@ const Login = () => {
       localStorage.setItem("token", res.data.token);
       setAlert({ msg: "Login Success", type: "success" });
       setAuth(true);
+      console.log(res.data);
     } catch (err) {
       localStorage.removeItem("token");
       setAlert({ msg: err.response.data.errors[0].msg, type: "danger" });
